@@ -1,5 +1,6 @@
 {
-  "name": "frontend",
+  "name": "vartalaap-frontend",
+  "author": "Anmol Verma",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
